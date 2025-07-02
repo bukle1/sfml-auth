@@ -1,0 +1,2 @@
+# sfml-auth
+authsystem
